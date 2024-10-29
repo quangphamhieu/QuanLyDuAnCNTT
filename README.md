@@ -1,6 +1,6 @@
 # QLDACNTT
  
-Tập làm quen việc quản lý 1 dự án công nghệ thông tin theo quy trình Scrum
+Tập làm quen việc quản lý 1 dự án công nghệ thông tin theo quy trình Scrum 
 
 Đề tài: Xây dựng 1 hệ thống quản lý đơn xin cấp tài sản
 
